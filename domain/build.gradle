@@ -1,0 +1,14 @@
+plugins {
+    id 'java-library'
+    id 'org.jetbrains.kotlin.jvm'
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+dependencies {
+    api "com.squareup.moshi:moshi-kotlin:1.12.0"
+    api "com.squareup.moshi:moshi-adapters:1.8.0"
+}

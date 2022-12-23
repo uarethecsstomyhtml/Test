@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Experience</string>
+
+    <!-- Actions -->
+    <string name="sign_up_title">Регистрация</string>
+
+</resources>

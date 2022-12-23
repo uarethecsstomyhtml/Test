@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Experience</string>
+
+    <!-- Actions -->
+    <string name="action_sign_in">Войти</string>
+    <string name="action_sign_up">Регистрация</string>
+
+    <!-- Hints -->
+    <string name="hint_first_name">Имя</string>
+    <string name="hint_last_name">Фамилия</string>
+    <string name="hint_password">Пароль</string>
+    <string name="hint_phone_number">Номер телефона</string>
+
+    <string name="login_not_account_caption">Нет аккаунта?</string>
+
+    <!-- Bottom nav bar -->
+    <string name="bottom_navigation_bar_main">Лента</string>
+    <string name="bottom_navigation_bar_profile">Профиль</string>
+</resources>
